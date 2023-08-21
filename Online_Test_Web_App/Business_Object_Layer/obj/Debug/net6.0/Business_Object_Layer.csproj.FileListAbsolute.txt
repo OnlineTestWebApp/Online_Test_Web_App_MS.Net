@@ -1,0 +1,12 @@
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Business_Object_Layer\bin\Debug\net6.0\Business_Object_Layer.deps.json
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Business_Object_Layer\bin\Debug\net6.0\Business_Object_Layer.dll
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Business_Object_Layer\bin\Debug\net6.0\Business_Object_Layer.pdb
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Business_Object_Layer\obj\Debug\net6.0\Business_Object_Layer.csproj.AssemblyReference.cache
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Business_Object_Layer\obj\Debug\net6.0\Business_Object_Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Business_Object_Layer\obj\Debug\net6.0\Business_Object_Layer.AssemblyInfoInputs.cache
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Business_Object_Layer\obj\Debug\net6.0\Business_Object_Layer.AssemblyInfo.cs
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Business_Object_Layer\obj\Debug\net6.0\Business_Object_Layer.csproj.CoreCompileInputs.cache
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Business_Object_Layer\obj\Debug\net6.0\Business_Object_Layer.dll
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Business_Object_Layer\obj\Debug\net6.0\refint\Business_Object_Layer.dll
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Business_Object_Layer\obj\Debug\net6.0\Business_Object_Layer.pdb
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Business_Object_Layer\obj\Debug\net6.0\ref\Business_Object_Layer.dll

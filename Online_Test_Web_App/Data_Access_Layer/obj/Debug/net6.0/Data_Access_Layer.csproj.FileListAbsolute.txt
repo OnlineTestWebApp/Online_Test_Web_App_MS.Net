@@ -1,0 +1,15 @@
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.AssemblyReference.cache
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfoInputs.cache
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.AssemblyInfo.cs
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.CoreCompileInputs.cache
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.deps.json
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.dll
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\bin\Debug\net6.0\Data_Access_Layer.pdb
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\bin\Debug\net6.0\Business_Object_Layer.dll
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\bin\Debug\net6.0\Business_Object_Layer.pdb
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.csproj.CopyComplete
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.dll
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\obj\Debug\net6.0\refint\Data_Access_Layer.dll
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\obj\Debug\net6.0\Data_Access_Layer.pdb
+E:\Online_Test_Web_App_MS.Net\Online_Test_Web_App\Data_Access_Layer\obj\Debug\net6.0\ref\Data_Access_Layer.dll
