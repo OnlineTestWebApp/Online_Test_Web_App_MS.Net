@@ -159,7 +159,7 @@
       },
       "Data_Access_Layer/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
+        "framework": ".NETCoreApp,Version=v1.0",
         "dependencies": {
           "Business_Object_Layer": "1.0.0",
           "System.Data.SqlClient": "4.8.5"

@@ -8,9 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Business_Logic_Layer\Business_Logic_Layer.csproj" />
-    <ProjectReference Include="..\Business_Object_Layer\Business_Object_Layer.csproj" />
-    <ProjectReference Include="..\Data_Access_Layer\Data_Access_Layer.csproj" />
+    <ProjectReference Include="..\demo2\Data_Access_Layer.csproj" />
+    <ProjectReference Include="..\demo3\Business_Logic_Layer.csproj" />
+    <ProjectReference Include="..\demo\Business_Object_Layer.csproj" />
   </ItemGroup>
 
 </Project>
